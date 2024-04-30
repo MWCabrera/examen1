@@ -1,0 +1,41 @@
+.caja1{
+    text-align: center;
+}
+.caja2{
+    width: 48%;
+    height: 500px;
+    padding-right: 5%;
+}
+.caja3{
+    width: 48%;
+    height: 500px;
+    padding-left: 5%;
+}
+.cajaA{
+    padding: 1%;
+    display: flex;
+    justify-content: center;
+}
+.cajaQ{
+    padding-left: 25%;
+    padding-top: 5%;
+    border-style: solid;
+    display: block;
+    border-color: white;
+    justify-content: center;
+}
+.parteA{
+    width: 100%;
+    background-color: red;
+    height: 25px;
+}
+.parteB{
+    width: 100%;
+    background-color: yellow;
+    height: 25px;
+}
+.parteC{
+    width: 100%;
+    background-color: green;
+    height: 25px;
+}
